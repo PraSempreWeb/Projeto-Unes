@@ -21,4 +21,4 @@ Nesse pequeno projeto desenvolvi um site de forma bem básica, estruturado dentr
 
 
 
-`Cristiano Bonifácio` [Linkedin](https://www.linkedin.com/in/cristianowebdesigner2019/)
+Desenvolvido por: [`Cristiano Bonifácio`](https://www.linkedin.com/in/cristianowebdesigner2019/)
