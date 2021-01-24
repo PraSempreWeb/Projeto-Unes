@@ -21,4 +21,10 @@ Nesse pequeno projeto desenvolvi um site de forma bem básica, estruturado dentr
 
 
 
-Desenvolvido por: [`Cristiano Bonifácio`](https://www.linkedin.com/in/cristianowebdesigner2019/)
+Desenvolvido por: [`Cristiano Bonifácio`](https://www.linkedin.com/in/cristianowebdesigner2019/)  
+
+Analista de Sistemas e Professor: ```Jamilton Damasceno```  
+Plataforma de Curso: [```Udemy```](https://www.udemy.com/)
+
+
+
