@@ -17,7 +17,11 @@ Nesse pequeno projeto desenvolvi um site de forma bem básica, estruturado dentr
 :ballot_box_with_check: Formulários
 
 
-![html5](https://user-images.githubusercontent.com/77255300/105637081-44cfec00-5e4a-11eb-98cd-74dd69b21254.png)
+HTML5 |
+------|
+<img src="https://user-images.githubusercontent.com/77255300/105902508-8228ab00-5ffd-11eb-9af7-d2e0dd4f22ee.png" width=120>
+<img src="https://user-images.githubusercontent.com/77255300/105891389-5b637800-5fef-11eb-994c-f43a659ce434.png" width=500>
+
 
 
 
